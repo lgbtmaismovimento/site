@@ -1,0 +1,70 @@
+<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lgbtmaismovimento.com" resolutions="1x" timestamp="1532046574446">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="152880513" ref="index:francês:espanhol:português:arabe:inglês"/>
+    <file name="index.css" crc="254932127" ref="index"/>
+    <file name="franc_s.css" crc="191843495" ref="francês"/>
+    <file name="espanhol.css" crc="409199375" ref="espanhol"/>
+    <file name="portugu_s.css" crc="14559875" ref="português"/>
+    <file name="arabe.css" crc="402068166" ref="arabe"/>
+    <file name="ingl_s.css" crc="3887568455" ref="inglês"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:português:arabe:francês:inglês:espanhol"/>
+    <file name="museutils.js" crc="46400467" ref="index:português:arabe:francês:inglês:espanhol"/>
+    <file name="whatinput.js" crc="86476730" ref="index:português:arabe:francês:inglês:espanhol"/>
+    <file name="museconfig.js" crc="4273287925" ref="index:português:arabe:francês:inglês:espanhol"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:português:arabe:francês:inglês:espanhol"/>
+    <file name="require.js" crc="85721165" ref="index:português:arabe:francês:inglês:espanhol"/>
+  </folder>
+  <folder name="images">
+    <file name="u227-4.png" crc="472256198" ref="português"/>
+    <file name="u195-4.png" crc="69072987" ref="index:português:arabe:francês:inglês:espanhol"/>
+    <file name="iconeenviar.svg" crc="4210344732" seo="true" ref="index:português:arabe:francês:inglês:espanhol">
+      <caption webpage="index" alt=""/>
+      <caption webpage="português" alt=""/>
+      <caption webpage="arabe" alt=""/>
+      <caption webpage="francês" alt=""/>
+      <caption webpage="espanhol" alt=""/>
+      <caption webpage="inglês" alt=""/>
+    </file>
+    <file name="iconeenviar_poster_.png" crc="422626766" ref="português"/>
+    <file name="casa.svg" crc="507298085" seo="true" ref="português:arabe:francês:inglês:espanhol:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="português" alt=""/>
+      <caption webpage="francês" alt=""/>
+      <caption webpage="arabe" alt=""/>
+      <caption webpage="espanhol" alt=""/>
+      <caption webpage="inglês" alt=""/>
+    </file>
+    <file name="casa_poster_.png" crc="4252696726" ref="português"/>
+    <file name="logofinal_marrom_logofinal_marrom.svg" crc="403110189" seo="true" ref="português:arabe:francês:inglês:espanhol:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="português" alt=""/>
+      <caption webpage="francês" alt=""/>
+      <caption webpage="arabe" alt=""/>
+      <caption webpage="espanhol" alt=""/>
+      <caption webpage="inglês" alt=""/>
+    </file>
+    <file name="logofinal_marrom_logofinal_marrom_poster_.png" crc="384983524" ref="português"/>
+    <file name="u433-16.png" crc="3758542382" ref="arabe"/>
+    <file name="u454-14.png" crc="179363800" ref="francês"/>
+    <file name="u475-14.png" crc="504996407" ref="inglês"/>
+    <file name="u491-15.png" crc="3963638173" ref="espanhol"/>
+    <file name="u539-4.png" crc="3980792271" ref="index"/>
+    <file name="u545-4.png" crc="3953899041" ref="index"/>
+    <file name="u542-4.png" crc="3951395152" ref="index"/>
+    <file name="u548-4.png" crc="4079878846" ref="index"/>
+    <file name="u551-4.png" crc="339959413" ref="index"/>
+    <file name="fundosite.svg" crc="4185327899" ref="português:arabe:francês:inglês:espanhol:index"/>
+    <file name="fundosite_poster_u582.png" crc="3784400097" ref="português:arabe:francês:inglês:espanhol:index"/>
+    <file name="u226-11.png" crc="191796901" ref="português"/>
+  </folder>
+  <file name="index.html" crc="522799058" seo="true" mt="1532045990383" redirect="true"/>
+  <file name="português.html" crc="17950192" seo="true" mt="1532045896194" redirect="true"/>
+  <file name="arabe.html" crc="3937202818" seo="true" mt="1532025087227" redirect="true"/>
+  <file name="francês.html" crc="3944577754" seo="true" mt="1532025087227" redirect="true"/>
+  <file name="inglês.html" crc="514858191" seo="true" mt="1532025087227" redirect="true"/>
+  <file name="espanhol.html" crc="262368901" seo="true" mt="1532025087227" redirect="true"/>
+</manifest>
